@@ -12,13 +12,13 @@ This project was merely a learning exercise as well as my first sizeable project
 
 ## Readme Content
 
-- [Technologies Used](https://github.com/senior-developer1019/RealEstateReact/tree/feat/readme-update#technologies-used)
-- [Terms & Conditions](https://github.com/senior-developer1019/RealEstateReact#terms--conditions)
-- [Project Goals](https://github.com/senior-developer1019/RealEstateReact#main-goals-of-this-project)
-- [Installation & Setup Guide](https://github.com/senior-developer1019/RealEstateReact/tree/feat/readme-update#installation--setup-guide)
-- [App Screens](https://github.com/senior-developer1019/RealEstateReact/tree/feat/readme-update#app-screens)
-- [Basic Mockups for Project](https://github.com/senior-developer1019/RealEstateReact/tree/feat/readme-update#basic-mockups-for-project)
-- [Datastructure for db](https://github.com/senior-developer1019/RealEstateReact/tree/feat/readme-update#datastructure-for-db)
+- [Technologies Used](https://github.com/senior-dev-1019/RealEstateReact/tree/feat/readme-update#technologies-used)
+- [Terms & Conditions](https://github.com/senior-dev-1019/RealEstateReact#terms--conditions)
+- [Project Goals](https://github.com/senior-dev-1019/RealEstateReact#main-goals-of-this-project)
+- [Installation & Setup Guide](https://github.com/senior-dev-1019/RealEstateReact/tree/feat/readme-update#installation--setup-guide)
+- [App Screens](https://github.com/senior-dev-1019/RealEstateReact/tree/feat/readme-update#app-screens)
+- [Basic Mockups for Project](https://github.com/senior-dev-1019/RealEstateReact/tree/feat/readme-update#basic-mockups-for-project)
+- [Datastructure for db](https://github.com/senior-dev-1019/RealEstateReact/tree/feat/readme-update#datastructure-for-db)
 
 ## Technologies Used
 
@@ -57,14 +57,14 @@ This project was created in 2 and a half weeks. React Site & API Server was buil
 
 ## Installation & Setup Guide
 
-- git clone git@github.com:senior-developer1019/RealEstateReact.git
+- git clone git@github.com:senior-dev-1019/RealEstateReact.git
 - cd RealEstateReact
 - npm install
 - npm run start
 
 **_To run on local machine, API server should run on same local machine, using port: 4000_**
 
-- API server link: - [API server](https://github.com/senior-developer1019/RealEstateServer)
+- API server link: - [API server](https://github.com/senior-dev-1019/RealEstateServer)
 
 ## Deployment Guide
 
@@ -76,7 +76,7 @@ This project was created in 2 and a half weeks. React Site & API Server was buil
 
 #### Advertisement
 
-![Advertisement data structure](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/advert-data-table.png?raw=true)
+![Advertisement data structure](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/advert-data-table.png?raw=true)
 
 - isForSale: Boolean,
 - isForRent: Boolean,
@@ -116,7 +116,7 @@ phoneNumber: Text,
 
 #### User roles
 
-![User Roles](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/user-roles-updated.png?raw=true)
+![User Roles](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/user-roles-updated.png?raw=true)
 
 ## Calendar
 
@@ -140,7 +140,7 @@ Each calendar event has:
 
 #### User Roles
 
-![User Roles](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/manager-agent-roles.gif?raw=true)
+![User Roles](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/manager-agent-roles.gif?raw=true)
 
 - Manager of Company can activate and suspend accounts of company agents.
 - Company Agent can not log in to site, after registration (while manager have not confirmed account)
@@ -149,30 +149,30 @@ Each calendar event has:
 
 #### Top Up Balance using Stripe
 
-![Top Up Balance using Stripe](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/top-up-balance-stripe.gif?raw=true)
+![Top Up Balance using Stripe](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/top-up-balance-stripe.gif?raw=true)
 
 #### One step to add your Advertisement
 
-![One step to add your Advertisement](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/Easy-to-add-advert.gif)
+![One step to add your Advertisement](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/Easy-to-add-advert.gif)
 
 #### Upload Images to your Advertisement
 
-![Upload Images to your Advertisement](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/image-upload.gif?raw=true)
+![Upload Images to your Advertisement](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/image-upload.gif?raw=true)
 
 #### Add Extras to your Advertisement & Check finished Advertisement
 
-![Add Extras to your Advertisement & Check finished Advertisement](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/add-extras+overview.gif?raw=true)
+![Add Extras to your Advertisement & Check finished Advertisement](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/add-extras+overview.gif?raw=true)
 
 #### Check Main Page & Search for Advertisements
 
-![Check Main Page & Search for Advertisements](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/ready-screens/main-page&search.gif?raw=true)
+![Check Main Page & Search for Advertisements](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/ready-screens/main-page&search.gif?raw=true)
 
 ## Basic Mockups for Project
 
 #### Image of Single advertisement page
 
-![Image of Single advertisement page](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/One_Advertisement_page.png?raw=true)
+![Image of Single advertisement page](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/One_Advertisement_page.png?raw=true)
 
 #### Image of Search Page
 
-![Image of Search Page](https://github.com/senior-developer1019/RealEstateReact/blob/master/images/Search_page.png?raw=true)
+![Image of Search Page](https://github.com/senior-dev-1019/RealEstateReact/blob/master/images/Search_page.png?raw=true)
